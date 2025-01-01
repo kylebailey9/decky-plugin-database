@@ -384,3 +384,4 @@ jobs:
           echo "::warning::Plugin $PLUGIN_NAME is marked as 'do not upload'. Consider removing the 'dnu' tag if this is an accident."
         fi
         echo "::endgroup::"
+j
